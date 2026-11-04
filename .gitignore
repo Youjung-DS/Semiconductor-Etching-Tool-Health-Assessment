@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Course materials (keep local, not public)
+Project1_Etcher_2026.pdf
+data/GroundTruth/Grouth_Truth_Etcher_WithResult.xls
